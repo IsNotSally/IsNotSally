@@ -21,4 +21,3 @@ I'm a full stack developer, currently based in Barcelona.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsNotSally)](https://github.com/IsNotSally/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsNotSally&theme=dark&layout=compact)
