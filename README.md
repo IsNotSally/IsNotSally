@@ -19,5 +19,37 @@ This is Ziyang, call me Sally if you want!
 
 I'm a full stack developer, currently based in Barcelona. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsNotSally)](https://github.com/IsNotSally/github-readme-stats)
 
+- 🔭 My tech stack:
+
+
+• Frontend: React.js, Redux.js, AngularJS, Next.js, Bootstrap, SCSS  
+• Backend: Express.js, Node.js, Next.js, Koa.js, Socket.io  
+• Database: MongoDB, PostgreSQL, Monggose ODM, Prisma ORM  
+• Testing: Cypress, Jest  
+
+
+
+- 📫 How to reach me: 
+
+
+View my LinkedIn: https://www.linkedin.com/in/ziyang-wang-5aa4b1226/
+
+
+
+
+- 🌱 Some stats:  
+
+
+![Sally's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsNotSally&count_private=true&show_icons=true&theme=radical)
+
+
+
+
+
+- ⚡ Fun fact:   
+
+
+"Sally" came from my favorite song, which goes something like:    
+
+"🎵 so Sally can wait, she knows it's too late as we're walking on by. Her soul slides away, but don't back in anger, I heard you say.🎵"
