@@ -25,7 +25,7 @@ I'm a full stack developer, currently based in Barcelona.
 
 • Frontend: React.js, Redux.js, AngularJS, Next.js, Bootstrap, SCSS  
 • Backend: Express.js, Node.js, Next.js, Koa.js, Socket.io  
-• Database: MongoDB, PostgreSQL, Monggose ODM, Prisma ORM  
+• Database: MongoDB, PostgreSQL, Mongoose ODM, Prisma ORM  
 • Testing: Cypress, Jest  
 
 
@@ -52,4 +52,4 @@ View my LinkedIn: https://www.linkedin.com/in/ziyang-wang-5aa4b1226/
 
 "Sally" came from my favorite song, which goes something like:    
 
-"🎵 so Sally can wait, she knows it's too late as we're walking on by. Her soul slides away, but don't back in anger, I heard you say.🎵"
+"🎵 so Sally can wait, she knows it's too late as we're walking on by. Her soul slides away, but don't look back in anger, I heard you say.🎵"
